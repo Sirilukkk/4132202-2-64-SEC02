@@ -7,7 +7,7 @@
 
 **clone**
 
-> git clone https://github.com/Sirilukkk/4132202-2-64-SEC02.git
+>git clone https://github.com/Sirilukkk/4132202-2-64-SEC02.git
 
 **Link**  
 [LAB1](https://github.com/Sirilukkk/4132202-2-64-SEC02/tree/main/LAB1)
