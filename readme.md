@@ -5,9 +5,9 @@
 **รายวิชา *4132202* ภาคเรียนที่ *2* ปีการศึกษา*2563***  
 เทคโนโลยีอินเทอร์เน็ต  
 
-** clone **
+**clone**
 
 > git clone https://github.com/Sirilukkk/4132202-2-64-SEC02.git
 
-** Link **  
+**Link**  
 [LAB1](https://github.com/Sirilukkk/4132202-2-64-SEC02/tree/main/LAB1)
